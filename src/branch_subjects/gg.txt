@@ -1,0 +1,148 @@
+B.Tech Computer Science & Engineering with specialization in Graphics and Gaming 
+
+Semester I	 
+
+Subject
+Mathematics I
+Chemistry
+Mathematics I
+Programming and Data structures
+Open Source and Open Standards
+Environmental Studies
+Design Thinking
+English Communication
+
+Practical
+Chemistry Lab
+Programming and Data Structures-Lab
+
+Semester II	 
+
+Subject
+Mathematics -2
+Physics
+Advanced Data Structures
+Database Management Systems
+Basic Electronics Engineering
+IT Applications and Open Standards
+
+Practical
+Advanced Data Structures-Lab
+Physics Lab
+Database Management Systems Lab
+Basic Electronics Engineering Lab
+
+Semester III	 
+
+Subject
+Design and Analysis of Algorithms
+Computer System Architecture
+Advanced Database Management Systems
+Discrete Mathematical Structures
+Operating Systems
+Introduction to Graphics and Animation Tools using Open Source Software
+
+Practical
+Design and Analysis of Algorithms Lab
+Advanced Database Management Systems Lab
+Operating Systems Lab
+Dynamic Paradigm in Graphics & Gaming-1
+
+Semester IV	 
+
+Subject
+Software Engineering & Project management
+Data Communication and Computer Networks
+XML Programming
+Advanced Programming using Java
+Web Technologies through PHP
+Open Elective-1
+
+Practical
+Data Communication and Computer Networks Lab
+Advanced Programming using Java Lab
+Web Technologies through PHP-Lab
+XML Programming Lab
+Dynamic Paradigm in Graphics & Gaming-2
+
+Semester V	 
+
+Subject
+Object Oriented Analysis and Design
+Computer Graphics
+Mobile Application Programming using Android
+Web Programming for Graphics & Gaming (HTML 5 & Web GL)
+Formal Languages and Automata Theory
+Program Elective-1
+Program Elective-I
+.Net Technologies
+Digital Signal Processing
+Information Retrieval and Search Engines
+Modeling and Simulation
+
+Practical
+Web Programming for Graphics & Gaming (HTML 5 & Web GL) Lab
+Computer Graphics Lab
+Object Oriented Analysis and Design Lab
+Mobile Application Programming using Android Lab
+Minor-1
+Dynamic Paradigm in Graphics & Gaming-3
+
+Semester VI	 
+
+Subject
+Artificial Intelligence
+Micro Processor & Embedded Systems
+Introduction to Game Programming
+Computer Animation Algorithm and Techniques
+Digital Image Processing
+Program Elective-2
+Open Elective- HSS
+Program Elective-II
+Software Quality Management
+Compiler Design
+Enterprise Java
+OpenGL
+
+Practical
+Micro Processor & Embedded Systems Lab
+Introduction to Game Programming Lab
+Digital Image Processing Lab
+Minor Project II
+Industrial Visit
+Dynamic Paradigm in Graphics & Gaming-4
+
+Semester VII	 
+
+Subject
+Advanced Computer Graphics
+3D Complexity Techniques for Graphics Modeling and Animation
+Advanced Game Programming
+Program Elective-3
+Open Elective-2
+Program Elective-II
+Distributed Computing
+Introduction to Virtualization & Cloud Computing
+Social Analytics
+Virtual Reality
+
+Practical
+Advanced Computer Graphics Lab
+3D Complexity Techniques for Graphics Modeling and Animation Lab
+Advanced Game Programming Lab
+Major Project I
+Summer Internship
+
+Semester VIII	 
+
+Subject
+Program Elective-4
+Gaming & Simulation (Concepts, Methodology, Tools & Application)
+Program Elective-II
+Backup & DR (Except for where it is as main subject)
+Security in Cloud
+Privacy and Security in Social media world
+
+Practical
+Major Project II
+Gaming & Simulation (Concepts, Methodology, Tools & Application lab)

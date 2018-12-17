@@ -1,0 +1,157 @@
+B.Tech Computer Science & Engineering with Specialization in Business Analytics 
+
+Semester I	 
+
+Subject
+Mathematics I
+Chemistry
+Programming and Data structures
+Open Source and Open Standards
+English Communication
+Design Thinking
+
+Practical
+Chemistry Lab
+Programming and Data Structures Lab
+
+
+Semester II	 
+
+Subject
+Mathematics II
+Physics
+Advanced Data Structures
+Database Management Systems
+Basic Electronics Engineering
+Environmental Studies
+Introduction to Business Analytics
+
+Practical
+Advanced Data Structures-Lab
+Physics Lab
+Database Management Systems Lab
+Basic Electronics Engineering Lab
+
+
+Semester III	 
+
+Subject
+Design and Analysis of Algorithms
+Computer System Architecture
+Advanced Database Management Systems
+Discrete Mathematical Structures
+Operating Systems
+Business Process Management
+
+Practical
+Advanced Database Management Systems Lab
+Design and Analysis of Algorithms Lab
+Operating Systems Lab
+Dynamic Paradigm in Bussiness Analytics and Optimization 1
+
+
+Semester IV	 
+
+Subject
+Software Engineering &  Project management
+Data Communication and Computer Networks
+Applied statistical Analysis
+Advanced Programming using Java
+Web Technologies through PHP
+Open Elective-1
+
+Practical
+Data Communication and Computer Networks Lab
+Advanced Programming using Java Lab
+Web Technologies through PHP-Lab
+Applied statistical Analysis Lab
+Dynamic Paradigm in Business Analytics & Optimization 2
+
+ 
+Semester V	 
+
+Subject
+Object Oriented Analysis and Design
+Computer Graphics
+Data mining & Prediction Modeling
+Data Warehousing & Multidimensional Modeling
+Formal Languages and Automata Theory
+Program Elective-1
+
+Practical
+IBM Subject Lab(Data mining & Prediction Modeling)
+Computer Graphics Lab
+Object Oriented Analysis and Design Lab
+Data Warehousing & Multidimensional Modeling lab
+Minor Project I
+Dynamic Paradigm in Business Analytics & Optimization 3
+PE - I
+.NET Technologies
+Digital Signal Processing
+Information Retrieval and Search Engines
+Modeling and simulation
+
+
+Semester VI	 
+
+Subject
+Artificial Intelligence
+Micro Processor & Embedded Systems
+Business Intelligence
+Operation Research & Optimization
+Program Elective-2
+Open Elective- HSS
+
+Practical
+Micro Processor & Embedded Systems Lab
+IBM Subject Lab(Business Intelligence)
+Operation Research lab
+Minor Project II
+Industrial Visit
+Dynamic Paradigm in Business Analytics & Optimization 4
+PE - II
+Digital Image Processing
+Software Quality Management
+Compiler Design
+Enterprise Java
+
+
+Semester VII	 
+
+Subject
+Cryptography and Network Security
+Big data analytics/IBM Elective
+Web Social Analytics/IBM Elective-3
+Program Elective III
+Open Elective II
+
+Practical
+Cryptography and Network Security Lab
+IBM Subject  Lab(Bigdata analytics)
+Major Project I
+Summer Internship
+Web Analytics Lab
+PE - III
+Distributed Computing (Except for where it is as main subject)
+BAO & Cloud
+Expert Systems
+ERP & SCM (Except for where it is as main subject)
+Retail Analytics (Except for where it is as main subject)
+Mobile applications & E-commerce (Except for where it is as main subject)
+
+
+Semester VIII	 
+
+Subject
+Program Elective IV
+Enterprise Information Architecture
+Business Strategy & Analytics/IBM Elective
+
+Practical
+Major Project-2
+PE - IV
+Backup & DR (Except for where it is as main subject)
+Social Analytics (Except for where it is as main subject)
+Cyber Forensic (Except for where it is as main subject)
+Mobile Analytics
+Banking & Insurance Analytics(Banking & Insurance Analytics)

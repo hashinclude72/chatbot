@@ -1,0 +1,142 @@
+B.Tech Computer Science & Engineering with specialization in E-Commerce, Retail & Automation
+
+Semester I	 
+
+Subject
+Mathematics I
+Chemistry
+Programming and Data structures.
+Open Source and Open Standards
+English Communication
+Design Thinking
+
+Practical
+Chemistry Lab
+Programming and Data Structures Lab
+
+Semester II	 
+
+Subject
+Mathematics II
+Physics
+Advanced Data Structures
+Database Management Systems
+Basic Electronics Engineering
+Environmental Studies
+IT Applications and Open Standards
+
+Practical
+Advanced Data Structures-Lab
+Physics Lab
+Database Management Systems Lab
+Basic Electronics Engineering Lab
+
+Semester III	 
+
+Subject
+Design and Analysis of Algorithms
+Computer System Architecture
+Advanced Database Management Systems
+Discrete Mathematical Structures
+Operating Systems
+Retail Business Model and Processes
+
+Practical
+Advanced Database Management Systems Lab
+Design and Analysis of Algorithms Lab
+Operating Systems Lab
+Dynamic Paradigm in Retail 1
+
+Semester IV	 
+
+Subject
+Software Engineering &  Project management
+Data Communication and Computer Networks
+IT Applications in Retail Business
+Advanced Programming using Java
+Web Technologies through PHP 
+Open Elective I
+
+Practical
+Data Communication and Computer Networks Lab
+Advanced Programming using Java Lab
+Web Technologies through PHP-Lab
+IT Application in Retail Business Lab
+Dynamic Paradigm in Retail 2
+
+Semester V	 
+
+Subject
+Object Oriented Analysis and Design
+Micro Processor & Embedded Systems
+Retail ERP & Supply Chain
+E-Customer Relationship Management
+Formal Languages and Automata Theory
+Program Elective I
+PE - I
+Interactive Programming through Python
+Information Retrieval and Search Engines
+Foundation of e-Commerce
+
+Practical
+E-Customer Relationship Management Lab
+Micro Processor & Embedded Systems Lab
+Object Oriented Analysis and Design Lab
+Minor Project I
+Dynamic Paradigm in Retail 3
+
+Semester VI	 
+
+Subject
+Retail Analytics
+Computer Graphics
+Digital Marketing
+Mobile Applications Development
+Program Elective II
+Open Elective- HSS
+PE - II
+e-Payment System for e-Commerce
+Compiler Design
+Service Oriented Architecture
+
+Practical
+Computer Graphics Lab
+Retail Analytics Lab
+Mobile Applications Development Lab
+Minor Project II
+Industrial Visit
+Dynamic Paradigm in Retail 4
+
+Semester VII	 
+
+Subject
+Cryptography and Network Security
+Cloud Computing
+Data Mining & Predictive Analytics
+Program Elective III
+Open Elective II
+PE - III
+Artificial Intelligence
+Electronic Business and Services
+Interface Design for e-Business Transactions
+
+Practical
+Cryptography and Network Security Lab
+Cloud Computing Lab
+Data Mining & Predictive Analytics Lab
+Major Project I
+Summer Internship
+
+Semester VIII	 
+
+Subject
+Cloud Architecture and Deployment Models
+Web Social Analytics
+Program Elective IV
+PE -IV
+Backup & DR (Except for where it is as main subject)
+Implications of e-Business
+Marketing Analytics
+
+Practical
+Major Project II

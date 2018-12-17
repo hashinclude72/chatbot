@@ -1,0 +1,142 @@
+B.Tech Computer Science & Engineering with Specialization in Internet of Things and Smart Cities
+
+Semester I	 
+
+Subject
+Mathematics I
+Basic Electronics Engineering
+Programming and Data structures.
+Open Source and Open Standards
+English Communication
+Design Thinking
+Environmental Studies
+
+Practical
+Basic Electronics Engineering Lab
+Programming and Data Structures Lab
+
+Semester II	 
+
+Subject
+Mathematics II
+Physics
+Advanced Data Structures
+Database Management Systems
+Chemistry
+IT Applications and Open Standards
+
+Practical
+Advanced Data Structures-Lab
+Physics Lab
+Database Management Systems Lab
+Chemistry Lab
+
+Semester III	 
+
+Subject
+Design and Analysis of Algorithms
+Computer System Architecture
+Advanced Database Management Systems
+Discrete Mathematical Structures
+Operating Systems
+Introduction to Internet of Things
+
+Practical
+Advanced Database Management Systems Lab
+Design and Analysis of Algorithms Lab
+Operating Systems Lab
+Dynamic Paradigm in Internet of Things 1
+
+Semester IV	 
+
+Subject
+Software Engineering &  Project management
+Data Communication and Computer Networks
+Sensor Technology & Instrumentation
+Advanced Programming using Java
+Web Technologies through PHP
+Open Elective-1
+
+Practical
+Data Communication and Computer Networks Lab
+Advanced Programming using Java Lab
+Web Technologies through PHP-Lab
+Sensor Technology & Instrumentation Lab
+Dynamic Paradigm in Internet of Things 2
+
+Semester V	 
+
+Subject
+Object Oriented Analysis and Design
+Micro Processor & Embedded Systems
+Wireless Sensor Networks & IoT Standards
+Cloud and Virtualization
+Formal Languages and Automata Theory
+Program Elective-1
+
+Practical
+Wireless Sensor Networks & IoT Standards Lab
+Micro Processor & Embedded Systems Lab
+Object Oriented Analysis and Design Lab
+Minor Project I
+Dynamic Paradigm in Internet of Things 3
+PE-I
+Communication Technologies and Protocols
+Interactive Programming through Python
+Information Retrieval and Search Engines
+
+Semester VI	 
+
+Subject
+Ipv6 Analysis and Applications
+Computer Graphics
+Cloud Architecture and Deployment Models
+Mobile Applications Development
+Program Elective II
+Open Elective- HSS
+
+Practical
+Computer Graphics Lab
+Cloud Architecture and Deployment Models Lab
+Mobile Applications Development Lab
+Minor Project II
+Industrial Visit
+Dynamic Paradigm in Internet of Things 4
+PE - II
+Designing of IoT Applications : Raspberry Pi and Arduino
+Compiler Design
+Embedded Technology for IoT
+
+Semester VII	 
+
+Subject
+Cryptography and Network Security
+Big Data Analytics
+Descriptive Analytics for IoT
+Program Elective III
+Open Elective II
+
+Practical
+Cryptography and Network Security Lab
+Big Data Analytics Lab
+Descriptive Analytics for IoT Lab
+Major Project I
+Summer Internship
+PE - III
+Embedded Smart Homes
+Impact of IoT & Smart Services on Society
+Artificial Intelligence
+
+Semester VIII	 
+
+Subject
+Program Elective IV
+Designer of Smarter Cities
+IoT for Industries
+
+Practical
+Major Project II
+PE - IV
+Backup & DR (Except for where it is as main subject)
+Internet Security & Protocols
+Network Performance Modelling and Analysis

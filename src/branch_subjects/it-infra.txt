@@ -1,0 +1,143 @@
+B.Tech Computer Science & Engineering with Specialization in IT Infrastructure \
+
+Semester I	 
+
+Subject
+Mathematics I
+Chemistry
+Programming and Data Structures
+Open Source and Open Standards
+English Communication
+Design Thinking
+
+Practical
+Chemistry Lab I
+Programming and Data Structures Lab
+
+Semester II	 
+
+Subject
+Mathematics -2
+Physics
+Advanced Data Structures
+Database Management Systems
+Basic Electronics Engineering
+Environmental Studies
+IT infrastructure Landscape overview-1
+
+Practical
+Physics Lab
+Advanced Data Structures-Lab
+Database Management Systems Lab
+Basic Electronics Engineering Lab
+
+Semester III	 
+
+Subject
+Design and Analysis of Algorithms
+Computer System Architecture
+Design and Analysis of Algorithms Lab
+Engineering Mechanics
+Operating Systems
+Information Technology Infrastructure Library
+
+Practical
+Advanced Database Management Systems Lab
+Design and Analysis of Algorithms Lab
+Operating Systems Lab
+Dynamic Paradigm in IT Infrastructure Management 1
+
+Semester IV	 
+
+Subject
+Software Engineering & Project management
+Data Communication and Computer Networks
+IT Service Management
+Advanced Programming using Java
+Web Technologies through PHP
+Open Elective-1
+Storage Technology Foundation
+
+Practical
+Data Communication and Computer Networks Lab
+Advanced Programming using Java Lab
+Web Technologies through PHP-Lab
+Dynamic Paradigm in IT Infrastructure Management 2
+
+Semester V	 
+
+Subject
+Object Oriented Analysis and Design
+Computer Graphics
+IT infrastructure management service models and benefits
+IT Infrastructure Management operations.
+Formal Languages and Automata Theory
+Program Elective-1
+Program Elective-I
+.NET Technologies
+Digital Signal Processing
+Information Retrieval and Search Engines
+Modeling and simulation
+
+Practical
+IT infrastructure management service models and benefits Lab
+Computer Graphics Lab
+Object Oriented Analysis and Design Lab
+Minor Project I
+Dynamic Paradigm in IT Infrastructure Management 3
+
+Semester VI	 
+
+Subject
+Artificial Intelligence
+Micro Processor & Embedded Systems
+IT service delivery
+IT Infrastructure Management Frameworks
+Program Elective-2
+Open Elective- HSS
+Program Elective-II
+Digital Image Processing
+Software Quality Management
+Compiler Design
+Enterprise Java
+
+Practical
+IT service delivery  Lab
+Micro Processor & Embedded Systems Lab
+Minor Project II
+Industrial Visit
+Dynamic Paradigm in IT Infrastructure Management 4
+
+Semester VII	 
+
+Subject
+Cryptography and Network Security
+Data center transformation-1
+Program Elective-3
+Open Elective-2
+IT Application discovery & Dependency management
+Program Elective-III
+Distributed Computing
+Business Intelligence
+Wireless & AD Hoc Network
+
+Practical
+Cryptography and Network Security Lab
+IT Application discovery & Dependency management Lab
+Data center transformation-1 Lab
+Major Project -1
+Summer Internship
+
+Semester VIII	 
+
+Subject
+Program Elective-4
+Data center transformation-2
+Technology and tools for infrastructure management
+Program Elective-IV
+Introduction to Virtualization & Cloud Computing
+Cloud Computing platforms 
+Cloud Performance tuning
+
+Practical
+Major Project II

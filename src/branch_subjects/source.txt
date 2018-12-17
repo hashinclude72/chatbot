@@ -1,0 +1,148 @@
+B.Tech Computer Science & Engineering with Specialization in Open Source & Open Standards
+
+Semester I	 
+
+Subject
+Mathematics I
+Physics
+rogramming and Data Structures
+Open Source and Open Standards
+Basic Electronics Enginering
+Design Thinking
+
+Practical
+Basic Electronics Engineering Lab
+Physics Lab
+Programming and Data Structures Lab
+
+Semester II	 
+
+Subject
+Mathematics-II
+Chemistry
+Advanced Data Structures
+Database Management Systems
+Environmental Studies
+English Communication
+IT Applications and Open Standards
+
+Practical
+Advanced Data Structures Lab
+Chemistry Lab
+Database Management Systems Lab
+
+Semester III	 
+
+Subject
+Design and Analysis of Algorithms
+Computer System Architecture
+Advanced Database Management Systems
+Engineering Mechanics
+Operating Systems
+OSS Development Methodology
+
+Practical
+Advanced Database Management Systems Lab
+Design and Analysis of Algorithms Lab
+Operating Systems Lab
+Dynamic Paradigm in Open Source and Open Standards 1
+
+Semester IV	 
+
+Subject
+Software Engineering &  Project management
+Data Communication and Computer Networks
+Administering Open Source Systems
+Advanced Programming using Java
+Web Technologies through PHP
+Open Elective-1
+
+Practical
+Data Communication and Computer Networks Lab
+Advanced Programming using Java Lab
+Web Technologies through PHP-Lab
+Dynamic Paradigm in Open Source and Open Standards 2
+Administering Open Source Systems Lab
+
+Semester V	 
+
+Subject
+Object Oriented Analysis and Design
+Computer Graphics
+XML Programming
+Open Source Mobile Platform
+Formal Languages and Automata Theory
+Program Elective-I
+Program Elective-I
+.Net Technologies
+Digital Signal Processing
+Information Retrieval and Search Engines
+Modeling and Simulation
+
+Practical
+Computer Graphics Lab
+Object Oriented Analysis and Design Lab
+Open Source Mobile platform Lab
+XML Programming Lab
+Minor Project I
+Dynamic Paradigm in Open Source and Open Standards 3
+
+Semester VI	 
+
+Subject
+Artificial Intelligence
+Micro Processor & Embedded Systems
+Web 2.0 Technologies
+Service Oriented Architecture
+Program Elective-2
+Open Elective- HSS
+Program Elective-II
+Digital Image Processing
+Software Quality Management
+Compiler Design
+Enterprise Java
+
+Practical
+Micro Processor & Embedded Systems Lab
+Minor-II
+Industrial Visit
+Dynamic Paradigm in Open Source and Open Standards 4
+Web 2.0 Technologies
+
+Semester VII	 
+
+Elective I (choose any one)
+Cryptography and Network Security
+Graphics & Animation Tools
+Program Elective-III
+Open Elective-II
+Program Elective-III
+Distributed Computing 
+Introduction to Virtualization & Cloud Computing
+Natural Language Processing
+Human Computer Interaction
+
+Practical
+Cryptography and Network Security Lab
+Graphic and Animation Tools Lab
+Major Project-1
+Summer Internship
+
+Semester VIII	 
+
+Subject
+Program Elective-4
+IBM Subject-11/IBM Elective
+Healthcare applications & HL7 – I
+Retail Applications & ARTS - I
+IBM Subject-12/IBM Elective
+Marketing & Services in OSS
+Licensing in OSS
+Program Elective-IV
+Backup & DR (Except for where it is as main subject)
+Social Analytics (Except for where it is as main subject)
+Cyber Forensic (Except for where it is as main subject)
+Storage Technology Foundation
+
+Practical
+Major Project II

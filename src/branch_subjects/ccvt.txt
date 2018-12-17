@@ -1,0 +1,143 @@
+B.Tech Computer Science & Engineering with Specialization in Cloud Computing & Virtualization Technology
+
+Semester I	 
+
+Subject
+Mathematics I
+Physics
+Programming and Data structures.
+Open Source and Open Standards
+Basic Electronics Engineering
+Design Thinking
+
+Practical
+Basic Electronics Engineering Lab
+Physics Lab
+Programming and Data Structures Lab
+English Communication
+
+Semester II	 
+
+Subject
+Mathematics II
+Chemistry
+Advanced Data Structures
+Database Management Systems
+Environmental Studies
+Introduction to IT Infrastructure Landscape
+
+Practical
+Advanced Data Structures-Lab
+Chemistry Lab
+Database Management Systems Lab
+
+Semester III	 
+
+Subject
+Design and Analysis of Algorithms
+Computer System Architecture
+Advanced Database Management Systems
+Discrete Mathematical Structures
+Operating Systems
+Introduction to Virtualization & Cloud Computing
+
+Practical
+Advanced Database Management Systems Lab
+Design and Analysis of Algorithms Lab
+Operating Systems Lab
+Introduction to Virtualization & Cloud Computing Lab
+Dynamic Paradigm in Cloud Computing 1
+
+Semester IV	 
+
+Subject
+Software Engineering &  Project management
+Data Communication and Computer Networks
+Storage Technology Foundation
+Advanced Programming using Java
+Web Technologies through PHP
+Open Elective-1
+
+Practical
+Data Communication and Computer Networks Lab
+Advanced Programming using Java Lab
+Web Technologies through PHP-Lab
+Dynamic Paradigm in Cloud Computing 2
+
+Semester V	 
+
+Subject
+Object Oriented Analysis and Design
+Computer Graphics
+Cloud Computing Architecture  
+XML Programming
+Formal Languages and Automata Theory
+Program Elective-1
+
+Practical
+XML Programming Lab
+Computer Graphics Lab
+Object Oriented Analysis and Design Lab
+Minor Project I
+Dynamic Paradigm in Cloud Computing 3
+PE - I
+.NET Technologies
+Digital Signal Processing
+Information Retrieval and Search Engines
+Modeling and simulation
+
+Semester VI	 
+
+Subject
+Computer Graphics
+Enterprise Java
+Cloud Computing Platforms II
+Dynamic Paradigm in Cloud Computing 3
+Service Oriented Architecture
+Data Communication & Networks
+ XML Programming
+
+Practical
+Cloud Deployment Model Lab
+Micro Processor & Embedded Systems Lab
+Minor Project II
+Industrial Visit
+Dynamic Paradigm in Cloud Computing 4
+PE- II
+Digital Image Processing
+Software Quality Management
+Compiler Design
+Enterprise Java
+
+Semester VII	 
+
+Subject
+Cryptography and Network Security
+Cloud Performance Tuning
+Program Elective - 3
+Open Elective-2
+
+Practical
+Cryptography and Network Security Lab
+Cloud Performance Tuning Lab
+Major Project I
+Summer Internship
+PE- III
+Distributed Computing 
+Business Process Management 1 (Except for where it is as main subject
+
+Semester VIII	 
+
+Subject
+Program Elective-4
+Choose Any One
+Security in Cloud
+Managing the Cloud (IBM Elective)
+
+Practical
+Major Project II
+PE- IV
+Backup & DR (Except for where it is as main subject)
+Business Process Management2 (Except for where it is as main subject)
+Social Analytics (Except for where it is as main subject)
+Cyber Forensic (Except for where it is as main subject)

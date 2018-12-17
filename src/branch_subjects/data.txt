@@ -1,0 +1,147 @@
+B.Tech Computer Science & Engineering with specialization in Big Data 
+
+Semester I	 
+
+Subject
+Mathematics I
+Physics
+Programming and Data structures
+Big Data Overview
+Basic Electronics Engineering
+Design Thinking
+
+Practical
+Basic Electronics Engineering Lab
+Physics Lab
+Programming and Data Structures-Lab
+
+Semester II	 
+
+Subject
+Mathematics II
+Chemistry
+Advanced Data Structures
+Database Management Systems
+Environmental Science
+English Communication
+Scalabale Storage
+
+Practical
+Advanced Data Structures-Lab
+Chemistry Lab
+Database Management Systems Lab
+Scalabale Storage
+
+Semester III	 
+
+Subject
+Design and Analysis of Algorithms
+Computer System Architecture
+Advanced Database Management Systems
+Engineering Mechanics
+Operating Systems
+Functional Thinking I
+
+Practical
+Advanced Database Management Systems Lab
+Design and Analysis of Algorithms Lab
+Operating Systems Lab
+Functional Thinking I Lab
+Webinar: Software Development Tools
+
+Semester IV	 
+
+Subject
+Software Engineering & Project management
+Micro Processor & Embedded Systems
+Distributed Ingestion
+OOPS using Java
+Distributed Analysis
+Open Elective I
+
+Practical
+Micro Processor & Embedded Systems Lab
+OOPS using Java
+Distributed Ingestion Lab
+Distributed Analysis Lab
+Webinar: How to write professional code?
+
+Semester V	 
+
+Subject
+Object Oriented Analysis and Design
+Computer Graphics
+Distributed Processing I
+Functional Thinking II
+Formal Languages and Automata Theory
+
+Practical
+Distributed Processing I Lab
+Computer Graphics Lab
+Object Oriented Analysis and Design Lab
+ 
+Program Elective - I
+
+Scalable Data Science
+ 
+
+Minor - I
+
+Functional Thinking II Lab
+Webinar: Big Data and Data Science : Two sides of the same coin
+
+Semester VI	 
+
+Subject
+Artificial Intelligence
+Data Communication and Computer Networks
+Distributed Processing II
+Data Exploration at Scale
+Big Data on Cloud
+Open Elective- HSS
+
+Practical
+Distributed Processing II Lab
+Data Exploration at Scale Lab
+Data Communication and Computer Networks Lab
+Minor Project II
+Minor II
+
+Training and Certification
+Webinar: Machine Learning and Neural Networks
+Program Elective - II
+
+Big Data on Cloud
+ 
+
+Semester VII	 
+
+Subject
+Cryptography and Network Security
+Streaming Processing
+Program Elective III
+Open Elective-II
+
+Practical
+Cryptography and Network Security Lab
+Streaming Processing Lab
+Major Project I
+Summer Internship
+Program Elective - III
+Big Data and DevOps Integration
+
+Semester VIII
+
+Practical
+Major Project II
+Program Elective - IV
+
+Distributed Graph Processing
+Big Data Security
+Scalable Architectures in Real world
+Program Elective - IV
+
+Exploration, Analytics and Visualization
+System Monitoring
+DevOps in Real World
+ 

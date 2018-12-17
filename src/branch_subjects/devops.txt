@@ -1,0 +1,139 @@
+B.Tech Computer Science & Engineering with specialization in DevOps
+
+Semester I	 
+
+Subject
+Mathematics I
+Chemistry
+Programming and Data structures
+DevOps Overview
+Environmental Science Basic
+Design Thinking
+
+Practical
+Chemistry Lab
+Programming and Data Structures-Lab
+
+Semester II	 
+
+Subject
+Mathematics II
+Physics
+Advanced Data Structures
+Database Management Systems
+Basic Electronics Engineering
+English Communication
+Source Code Management
+
+Practical
+Advanced Data Structures-Lab
+Physics Lab
+Database Management Systems Lab
+Basic Electronics Engineering Lab
+Source Code Management Lab
+
+Semester III	 
+
+Subject
+Design and Analysis of Algorithms
+Computer System Architecture
+Advanced Database Management Systems
+Engineering Mechanics
+Operating Systems
+Development Automation
+
+Practical
+Advanced Database Management Systems Lab
+Design and Analysis of Algorithms Lab
+Operating Systems Lab
+Development Automation Lab
+Webinar: Software Development Tools
+
+Semester IV	 
+
+Subject
+Software Engineering & Project management
+Micro Processor & Embedded Systems
+Build and Release Management
+OOPS using Java
+Continuous Integration and Continuous Deployment
+Open Elective I
+
+Practical
+Micro Processor & Embedded Systems Lab
+OOPS using Java
+Continuous Integration and Continuous Deployment Lab
+Build and Release Management Lab
+Webinar: How to write professional code?
+
+Semester V	 
+
+Subject
+Object Oriented Analysis and Design
+Computer Graphics
+System Provisioning and Configuration Management
+System Virtualization
+Formal Languages and Automata Theory
+
+Practical
+System Provisioning and Configuration Management Lab
+Computer Graphics Lab
+Object Oriented Analysis and Design Lab
+Program Elective - I
+DevOps and Big Data Integration
+Minor - I
+System Virtualization Lab
+Webinar: Big Data and Data Science : Two sides of the same coin
+
+Semester VI	 
+
+Subject
+Artificial Intelligence
+Data Communication and Computer Networks
+Test Automation
+Application Containerization
+Program Elective II
+Open Elective- HSS
+
+Practical
+Application Containerization Lab
+Test Automation Lab
+Data Communication and Computer Networks Lab
+Minor Project II
+Minor II
+Training and Certification
+Webinar: Machine Learning and Neural Networks
+Program Elective - II
+Agile Practices
+ 
+
+Semester VII	 
+
+Subject
+Cryptography and Network Security
+DevOps on Cloud
+Program Elective III
+Open Elective-II
+
+Practical
+Cryptography and Network Security Lab
+DevOps on Cloud Lab
+Major Project I
+Summer Internship
+Program Elective - III
+DevOps Security
+Helicopter engineering
+
+Semester VIII	 
+
+Practical
+Major Project II
+Program Elective - IV
+
+Space Science & Space Environment
+Composite materials
+Program Elective - IV
+
+Exploration, Analytics and Visualization
+System Monitoring
+DevOps in Real World

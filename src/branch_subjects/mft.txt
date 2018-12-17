@@ -1,0 +1,151 @@
+B.Tech Computer Science & Engineering with Specialization in Mainframe Technology 
+
+Semester I	
+
+Subject
+Mathematics I
+Physics
+Programming and Data structures.
+Open Source and Open Standards
+Basic Electronics Engineering
+Design Thinking
+
+Practical
+Basic Electronics Engineering Lab
+Physics Lab 
+Programming and Data Structures Lab
+English Communication
+
+Semester II
+
+Subject
+Mathematics II
+Chemistry
+Advanced Data Structures
+Database Management Systems
+Environmental Studies
+Fundamentals of Mainframe and Skills 
+
+Practical
+Advanced Data Structures-Lab
+Chemistry Lab 
+Database Management Systems Lab
+
+Semester III	
+
+Subject
+Design and Analysis of Algorithms
+Computer System Architecture
+Advanced Database Management Systems
+Engineering Mechanics
+Operating Systems
+Mainframe Operating Systems
+
+Practical
+Advanced Database Management Systems Lab
+Design and Analysis of Algorithms Lab
+Operating Systems Lab
+Dynamic Paradigm-1
+Mainframe Operating Systems Lab
+
+Semester IV
+
+Subject
+Software Engineering & Project management
+Micro Processor & Embedded Systems
+Mainframe Application Development using JCL
+Advanced Programming using Java
+Web Technologies through PHP
+Open Elective-1
+
+Practical
+Micro Processor & Embedded Systems Lab
+Advanced Programming using Java Lab
+Web Technologies through PHP-Lab
+Dynamic Paradigm-2
+Mainframe Application Development using JCL Lab
+
+Semester V	
+
+Subject
+Object Oriented Analysis and Design
+Computer Graphics
+Mainframe Application Development using COBOL
+Linux on Mainframes
+Formal Languages and Automata Theory
+Program Elective-I
+.Net Technologies
+Digital Signal Processing
+Information Retrieval and Search Engines
+Modeling and simulation
+
+Practical
+Mainframe Application Development using COBOL
+Computer Graphics Lab
+Object Oriented Analysis and Design Lab
+Minor-1
+Dynamic Paradigm-3
+
+Semester VI
+
+Subject
+Artificial Intelligence
+Data Communication and Computer Networks
+Mainframe DBMS
+Advance Scripting, Rexx
+Program Elective-2
+Open Elective- HSS
+Program Elective-II
+Digital Image Processing
+Software Quality Management
+Compiler Design
+Enterprise Java
+
+Practical
+Advance Scripting Lab, Rexx
+Mainframe DBMS Lab
+Micro Processor & Embedded Systems Lab
+Minor Project II
+Industrial Visit
+DYnamic Paradigm in Mainframe Technology 4
+
+Semester VII
+	
+Subject
+Cryptography and Network Security
+Mainframe Transaction Management, CICS
+Program Elective-III
+Open Elective-II
+Program Elective-III
+Distributed Computing 
+Introduction to Virtualization & Cloud Computing
+Natural Language Processing
+Human Computer Interaction
+
+Practical
+Cryptography and Network Security Lab
+Mainframe Transaction Management, CICS
+Major Project -1
+Summer Internship
+
+Semester VIII
+
+Subject
+Program Elective-4
+IBM Subject-11(IBM Elective)
+Mainframe Clustering
+System management on Mainframes
+IBM Subject-12(IBM Elective)
+Virtualization on Mainframe
+Resource  Allocation on Mainframe
+Networking on Mainframe
+Program Elective-IV
+ 
+Backup & DR (Except for where it is as main subject)
+Social Analytics (Except for where it is as main subject)
+Cyber Forensic (Except for where it is as main subject)
+Storage Technology Foundation
+
+Practical
+Major Project-II
+

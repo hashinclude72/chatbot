@@ -1,0 +1,95 @@
+B.Tech Computer Science & Engineering with specialization in AI & Machine Learning
+
+Semester I	
+
+Subject
+Mathematics I
+Physics I
+Programming and Data structures
+Programming with Python
+Basic Electronics Engineering
+Environmental Science
+Induction Program
+Design Thinking
+Physics I Lab
+Programming and Data Structures-Lab
+Basic Electronics Engineering Lab
+Python Programming Lab
+
+Semester II
+
+Subject
+
+Mathematics II
+Chemistry I
+Advanced Data Structures
+Introduction to Artificial Intelligence
+English
+Advanced Data Structures Lab
+Chemistry I Lab
+English Lab
+
+Semester III	
+
+Subject
+Design and Analysis of Algorithms
+Formal Languages and Automata Theory
+Advanced Database Management Systems
+Discrete Mathematical Structures
+Operating Systems
+Machine Learning
+Design and Analysis of Algorithms Lab
+Advanced Database Management Systems Lab
+Operating Systems Lab
+Dynamic Paradigm in Artificial Intelligence and Machine Learning 1
+Machine Learning Lab
+
+Semester IV
+
+Subject
+Software Engineering & Project management
+Data Communication and Computer Networks
+Object Oriented Programming
+Algorithm for Intelligent Systems and Robotics
+Data Mining and prediction by machines
+Open Elective-1
+Data Communication and Computer Networks Lab
+Object Oriented Programming Lab
+Data Mining and Prediction machine Lab
+Algorithm for Intelligent Systems and Robotics Lab
+Dynamic Paradigm in Artificial Intelligence and Machine Learning 2
+
+Semester V	
+
+Subject
+Object Oriented Analysis and Design
+Computer Graphics
+Compiler Design
+Cognitive Analytics
+Computational Linguistics and Natural Language Processing
+Program Elective-1
+Venture Ideation
+Computer Graphics Lab
+Object Oriented Analysis and Design Lab
+Minor Project I
+Dynamic Paradigm in Artificial Intelligence and Machine Learning 3
+Cognitive Analytics Lab
+Computational Linguistic and natural language processing Lab
+Social Internship
+
+Semester VI
+
+Subject
+Micro Processor & Embedded Systems
+Application of machine learning in industries
+Neural Networks
+Pattern and Anomaly Detection
+Professional Elective II
+Open Elective II
+Human values & Ethics
+Micro Processor & Embedded Systems Lab
+Minor Project II
+Application of machine learning in industries Lab
+Pattern and Anomaly Detection
+Neural Networks
+Dynamic Paradigm in Artificial Intelligence and Machine Learning 4
