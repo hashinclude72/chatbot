@@ -17,7 +17,7 @@ cd chatbot
 gcc chatbot.c -o chat
 ```
 ### Usage
-Now run `./chat` and start chatting with the bot.
+Now run `./chat` or `.\chat` and start chatting with the bot.
 
 ### Demo
 ![chat](https://github.com/jaswal72/chatbot/blob/master/src/images/chat1.jpg)
